@@ -9,7 +9,7 @@ Hi there! My name is Eric. Here is a little more about me:
 
 Go ahead and have a look around at my projects! I hope that you find them interesting :)
 
-### Statistics
+## Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-hdez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
