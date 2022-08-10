@@ -9,7 +9,7 @@ Hi there! My name is Eric. Here is a little more about me:
 
 Go ahead and have a look at my projects! I hope that you find them interesting :)
 
-You can find my ]personal website here](https://eric-hdez.github.io)! I built it from scratch using React and MUI.
+You can find my [personal website here](https://eric-hdez.github.io)! I built it from scratch using React and MUI.
 
 ## Statistics
 
