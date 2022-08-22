@@ -15,6 +15,10 @@ You can find my [personal website here](https://eric-hdez.github.io)! I built it
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-hdez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## Music
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12169476305&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12169476305&redirect=true)
+
 <!--
 some ideas to flesh it out in the future:
 
