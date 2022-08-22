@@ -17,7 +17,11 @@ You can find my [personal website here](https://eric-hdez.github.io)! I built it
 
 ## Music
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12169476305&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12169476305&redirect=true)
+
+<!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12169476305&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12169476305&redirect=true)
+-->
 
 <!--
 some ideas to flesh it out in the future:
