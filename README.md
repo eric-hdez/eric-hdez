@@ -8,7 +8,7 @@ Hi there! My name is Eric. Here is a little more about me:
 - 🤓 I recently took a graduate level course in compiler design. Check out my [final project here](https://github.com/taidanh/rex)!
 - 🔎 I interned at **NVIDIA** as a Software Engineer Intern during Summer 2021
 - 🥸 I'm the President of the Society of Hispanic Professional Engineers at UC Santa Cruz
-- 🫶 I love programming languages, distributed systems, and full stack web development
+<!-- - 🫶 I love programming languages, distributed systems, and full stack web development -->
 
 You can find my [personal website here](https://eric-hdez.github.io)! I built it from scratch using **React** and **Material UI**.
 
