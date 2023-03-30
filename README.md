@@ -5,7 +5,7 @@
 Hi there! My name is Eric. Here is a little more about me:
 
 - 📚 I'm a 4th year computer science (BS) student at the University of California, Santa Cruz
-- 🤓 I recently took a graduate level course in compiler design. Check out my [final project here]([https://github.com/taidanh/rex](https://sorensenucsc.github.io/CSE211-fa2022/projects/rex/index.html))!
+- 🤓 I recently took a graduate level course in compiler design. Check out my [final project here](https://sorensenucsc.github.io/CSE211-fa2022/projects/rex/index.html)!
 - 🔎 I interned at **NVIDIA** as a Software Engineer Intern during Summer 2021
 - 🥸 I'm the President of the Society of Hispanic Professional Engineers at UC Santa Cruz
 - 🫶 I love programming languages, compilers, computer systems, and full stack web development
