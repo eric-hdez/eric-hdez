@@ -5,12 +5,12 @@
 Hi there! My name is Eric. Here is a little more about me:
 
 - 📚 I'm a 4th year computer science (BS) student at the University of California, Santa Cruz
-- 🤓 I recently took a graduate level course in compiler design. Check out my [final project here](https://github.com/taidanh/rex)!
+- 🤓 I recently took a graduate level course in compiler design. Check out my [final project here]([https://github.com/taidanh/rex](https://sorensenucsc.github.io/CSE211-fa2022/projects/rex/index.html))!
 - 🔎 I interned at **NVIDIA** as a Software Engineer Intern during Summer 2021
 - 🥸 I'm the President of the Society of Hispanic Professional Engineers at UC Santa Cruz
-<!-- - 🫶 I love programming languages, distributed systems, and full stack web development -->
+- 🫶 I love programming languages, compilers, computer systems, and full stack web development
 
-You can find my [personal website here](https://eric-hdez.github.io)! I built it from scratch using **React** and **Material UI**.
+You can find my [personal website here](https://www.eric-hdez.dev)! I built it using **TypeScript**, **React.js**, **Material UI**, and **Joy UI**.
 
 You can check out my projects here on Github! There are only a few, but maybe they interest you :)
 
