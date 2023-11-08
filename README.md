@@ -4,7 +4,7 @@
 
 Hi there! My name is Eric. Here is a little more about me:
 
-- 📚 I hold a B.S. Computer science degree from the University of California, Santa Cruz
+- 📚 I hold a B.S. degree in Computer Science from the University of California, Santa Cruz
 - 🥸 I was the President of the Society of Hispanic Professional Engineers at UC Santa Cruz (2x)
 - 🔎 I interned at **NVIDIA** as a Software Engineer during Summer 2021, building an internal tool to help my team clean up their codebase
 - 🤓 I took a graduate-level course in compiler design. Check out my final project [here](https://sorensenucsc.github.io/CSE211-fa2022/projects/rex/index.html)!
