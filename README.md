@@ -2,11 +2,10 @@
 
 ## About Me
 
-Hi there! My name is Eric. I am an incoming Software Engineer @ Bloomberg LP in New York City. Here is a little more about me:
+Hi there! My name is Eric. I'm a Software Engineer @ Bloomberg LP in New York City. Here is a little more about me:
 
-- 📚 I hold a B.S. degree in Computer Science from the University of California, Santa Cruz
+- 📚 I hold a B.S. in Computer Science from the University of California, Santa Cruz
 - 🥸 I am an active member of the Society of Hispanic Professional Engineers as part of the Silicon Valley Professional Chapter
-- 🔎 I have experience with NVIDIA as a Software Engineer Intern in the Core RM Team and with ITS @ UC Santa Cruz as a Student Developer in the Software Engineering Team
 - 🤓 I took a graduate-level course in compiler design. Check out my final project [here](https://sorensenucsc.github.io/CSE211-fa2022/projects/rex/index.html)!
 - 🤓 My capstone project was a full-stack marketplace web application. You can check out my capstone project [here](https://www.baskin.app)
 - 🫶 I love programming languages, compilers, computer systems, and full-stack web development
