@@ -5,14 +5,13 @@
 Hi there! My name is Eric. I'm a Software Engineer @ Bloomberg LP in New York City. Here is a little more about me:
 
 - 📚 I hold a B.S. in Computer Science from the University of California, Santa Cruz
-- 🥸 I am an active member of the Society of Hispanic Professional Engineers as part of the Silicon Valley Professional Chapter
 - 🤓 I took a graduate-level course in compiler design. Check out my final project [here](https://sorensenucsc.github.io/CSE211-fa2022/projects/rex/index.html)!
-- 🤓 My capstone project was a full-stack marketplace web application. You can check out my capstone project [here](https://www.baskin.app)
+- 🥸 I'm an active member of the Society of Hispanic Professional Engineers as part of the Silicon Valley Professional Chapter
 - 🫶 I love programming languages, compilers, computer systems, and full-stack web development
 
-You can find out more about me at my [personal website](https://www.eric-hdez.dev)!
+You can learn more about me on my [personal website](https://www.eric-hdez.dev)!
 
-You can check out my projects here on Github! There are only a few, but they may interest you :)
+Check out my projects here on Github! There are only a few, but they may interest you :)
 
 ## Statistics
 
